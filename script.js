@@ -6,6 +6,10 @@ const ENDED = 1
 const playerSpan = document.getElementById('player')
 const gameTable = document.getElementById('game')
 
+
+
+
+
 const game = {
   state: STARTED,
   turn: 'X',
